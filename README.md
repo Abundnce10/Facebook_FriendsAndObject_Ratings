@@ -43,8 +43,8 @@ x.open("GET",url,true);
 x.send();
 ```
 
-Notice the score moves in ascending order while you move down the list.  I had ~200 friends below a 0.47 rating (it looks like people I message are most are the highest).  Then I see a list of groups I below to, as well as groups I recognize and other I don't but can assume they are related to me through one of my existing likes/follows/clicks.
+Notice how the scores move in ascending order as you scroll down the list.  I had ~200 friends below a 0.47 rating (at first glance it looks like mainly people I message the most).  After those friends I see a list of groups I belong to, as well as groups I recognize.  There are other groups I'm unaware of but can presume they are related to me through one of my existing: page likes, people follows, link clicks.
 
-I then see my remaining friends, although they all have the same value '0.48703849209005'.  I then see a list of objects (local cities, local businesses, local schools, misc. words from my profile.
+I then see my remaining friends, although they all have the same value '0.48703849209005'.  Following that I then see a list of objects (local cities, local businesses, local schools, misc. words from my profile).  The majority of my ratings for objects other than people are 'undefined'.
 
-**What does your look like?**
+#### What does yours look like?
