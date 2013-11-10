@@ -51,5 +51,5 @@ I then see my remaining friends, although they all have the same value '0.487038
 
 #### Credit
 
-I'm intrigued by the amount of objects from which they're tracking myself against for correlation, but I wasn't aware of this ability until I stumbledup over [Arjun Shreedharan's blog](http://arjunsreedharan.org/).  If one of his [posts](http://arjunsreedharan.org/post/65979958297/find-your-facebook-friends-ranking-score) he document's the code above.
+I'm intrigued by the amount of objects from which they're tracking myself against for correlation, but I wasn't aware of this ability until I stumbledup over [Arjun Shreedharan's blog](http://arjunsreedharan.org/).  In one of his [posts](http://arjunsreedharan.org/post/65979958297/find-your-facebook-friends-ranking-score) he document's the code above.
 
