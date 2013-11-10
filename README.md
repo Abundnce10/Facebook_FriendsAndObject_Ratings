@@ -1,6 +1,6 @@
-# Facebook Friends/Objects Rating
+## Facebook Friends/Objects Rating
 
-### Run the following script within your web browser's console while on Faebook.com
+#### Run the following script within your web browser's console while on Faebook.com
 
 
 ```javascript
